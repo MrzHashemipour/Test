@@ -15,3 +15,4 @@ tests/coverage_html/
 build/
 tests/report/
 db.sqlite3
+/__pycache__/settings.cpython-36.pyc
