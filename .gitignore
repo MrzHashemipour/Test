@@ -1,1 +1,17 @@
 db.sqlite3
+### Django ###
+*.log
+*.pot
+*.pyc
+*.egg-info
+__pycache__/
+local_settings.py
+MANIFEST
+dist/
+docs/locale/
+node_modules/
+tests/.coverage
+tests/coverage_html/
+build/
+tests/report/
+db.sqlite3
